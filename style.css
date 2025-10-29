@@ -1,0 +1,14 @@
+p{
+    background-color: pink;
+}
+button{
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: red;
+    background-color: antiquewhite;   
+}
+h1{
+    border: 2px solid green;
+    max-width: max-content;
+}
